@@ -67,6 +67,10 @@
 - https://github.com/aengelke/binopt
 - https://github.com/QBDI/QBDI
 
+## Symbolic Execution
+- https://github.com/insufficiently-caffeinated/caffeine
+
+
 ## Runtime Check
 - https://github.com/danteisalive/llvm-typecheking
 
@@ -84,6 +88,7 @@
 - https://github.com/enochii/simple-pointer-analysis [Pointer analysis]
 - https://github.com/grievejia/andersen [Pointer analysis]
 - https://github.com/seahorn/clam
+- https://github.com/Veridise/Vanguard [Smart Contracts]
 
 ## DIY Compiler
 - https://github.com/microsoft/checkedc-clang
@@ -100,7 +105,6 @@
 - https://github.com/sleirsgoevy/ps4-rop-8cc
 - https://github.com/egunnarsson/llfp
 - https://github.com/mirkosertic/Bytecoder [JAVA]
-- https://github.com/ab25cq/comelang
 - https://github.com/evanacox/honors-forum-project
 - https://github.com/rui314/chibicc
 - https://github.com/Nicholas-Baron/little-lang
@@ -110,6 +114,13 @@
 - https://github.com/lotabout/write-a-C-interpreter
 - https://github.com/alinalihassan/Lesma
 - https://github.com/RoryBrennan1999/PythonCompiler
+- https://github.com/skvadrik/re2c [Lexer]
+- https://github.com/SimplyDanny/bitsy-llvm
+- https://github.com/mikelma/oktac
+- https://github.com/One-Language/One
+- https://github.com/adorad/adorad
+- https://github.com/jfecher/ante
+- https://github.com/arcsysu/SYsU-lang
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
@@ -117,6 +128,7 @@
 - https://github.com/gwangmu/clang-ast-plugin-template
 - https://github.com/foonathan/cppast
 - https://github.com/llvm/llvm-project/blob/main/clang/tools/clang-check/ClangCheck.cpp
+- https://chromium.googlesource.com/chromium/src/+/refs/heads/main/tools/clang/rewrite_to_chrome_style/RewriteToChromeStyle.cpp
 
 ## LLD
 - https://github.com/llvm/llvm-project/commit/9dd2d50984f5b02e19d3576812dc9b09ddcc9483 [COFF]
