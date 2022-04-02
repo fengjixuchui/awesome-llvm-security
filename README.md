@@ -28,6 +28,7 @@
 - https://github.com/svv232/1nsanity
 - https://github.com/nlykkei/llvm-ir-obfuscation
 - https://github.com/scrt/avcleaner [Based Clang]
+- https://github.com/za233/LLVMMyPass
 
 ## LIFT
 - https://github.com/avast/retdec
@@ -70,9 +71,11 @@
 ## Symbolic Execution
 - https://github.com/insufficiently-caffeinated/caffeine
 
-
 ## Runtime Check
 - https://github.com/danteisalive/llvm-typecheking
+
+## Mathematics related
+- https://github.com/vgvassilev/clad
 
 ## Static Analysis
 - https://github.com/secure-software-engineering/phasar
@@ -89,6 +92,10 @@
 - https://github.com/grievejia/andersen [Pointer analysis]
 - https://github.com/seahorn/clam
 - https://github.com/Veridise/Vanguard [Smart Contracts]
+- https://github.com/KDE/clazy [Qt]
+
+## Crash Analysis
+- https://github.com/cisco-open/llvm-crash-analyzer
 
 ## DIY Compiler
 - https://github.com/microsoft/checkedc-clang
@@ -121,6 +128,16 @@
 - https://github.com/adorad/adorad
 - https://github.com/jfecher/ante
 - https://github.com/arcsysu/SYsU-lang
+- https://github.com/skyzluo/CS143-Compilers-Stanford
+- https://github.com/TinyCC/tinycc [tcc]
+- https://github.com/rswier/c4 [c4]
+- https://github.com/EarlGray/c4 [c4 jit]
+- https://bellard.org/otcc [otcc-c4]
+- https://github.com/sand-lang/sand
+- https://github.com/fly-lang/fly
+- https://github.com/RainingComputers/ShnooTalk
+- https://github.com/spicelang/spice
+- https://github.com/Spencer-Comin/Fern
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
@@ -129,12 +146,18 @@
 - https://github.com/foonathan/cppast
 - https://github.com/llvm/llvm-project/blob/main/clang/tools/clang-check/ClangCheck.cpp
 - https://chromium.googlesource.com/chromium/src/+/refs/heads/main/tools/clang/rewrite_to_chrome_style/RewriteToChromeStyle.cpp
+- https://github.com/vgvassilev/clad [Math]
+
+## Clangd
+- https://github.com/clangd/vscode-clangd
 
 ## LLD
 - https://github.com/llvm/llvm-project/commit/9dd2d50984f5b02e19d3576812dc9b09ddcc9483 [COFF]
+- https://github.com/llvm/llvm-project/commit/98bc304e9faded44f1d8988ffa4c5d8b50c759ec [COFF]
 
 ## Transfer
 - https://github.com/sbip-sg/tsll
+- https://github.com/Acmodeus/O2M_LLVM
 
 ## Bundler
 - https://github.com/oToToT/CppBundler
@@ -172,6 +195,7 @@
 - https://github.com/llvm/llvm-project/commit/b90478d4220ce5c13b8c8e613e23300cea2fd8b1
 - https://reviews.llvm.org/D122084
 - https://github.com/NewWorldComingSoon/llvm-msvc/commit/5fd945166862377be390948c9ab7dab2f47df217
+- https://github.com/llvm/llvm-project/commit/a5f637bcbb7d1e08ce637f113fc117c3f4b2b110
 
 
 ## Testing Tools
@@ -187,6 +211,7 @@
 
 ## LLVM Tutorial
 - https://llvm.discourse.group/t/beginner-resources-documentation/5872 [LLVM Community]
+- https://github.com/mikeroyal/LLVM-Guide
 - https://github.com/banach-space/llvm-tutor
 - https://github.com/xiaoweiChen/Learn-LLVM-12
 - https://github.com/xiaoweiChen/LLVM-Techniques-Tips-and-Best-Practies
@@ -211,6 +236,7 @@
 - https://llvm.org/docs/PDB/index.html [LLVM PDB]
 - https://github.com/bigconvience/llvm-ir-in-action [LLVM IR Examples]
 - https://github.com/alexjung/Writing-an-LLVM-Pass-using-the-new-PassManager [New Pass]
+- https://github.com/Radon10043/LLVMDFGPass [LLVM DFG]
 
 ## Clang Tutorial
 - https://github.com/banach-space/clang-tutor
