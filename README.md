@@ -29,6 +29,7 @@
 - https://github.com/nlykkei/llvm-ir-obfuscation
 - https://github.com/scrt/avcleaner [Based Clang]
 - https://github.com/za233/LLVMMyPass
+- https://github.com/GoSSIP-SJTU/Armariris
 
 ## LIFT
 - https://github.com/avast/retdec
@@ -49,9 +50,15 @@
 - https://github.com/JonathanSalwan/Triton/commit/4e42a22c7a4d970c81875f6474adf284187b452b
 - https://github.com/ergo720/lib86cpu
 - https://github.com/fvrmatteo/TritonASTLLVMIRTranslator
+- https://github.com/toor-de-force/Ghidra-to-LLVM
+- https://github.com/cbwang505/llvmanalyzer [Retdec Example]
 
 ## JIT
 - https://github.com/hfinkel/llvm-project-cxxjit
+- https://github.com/vnmakarov/mir
+
+## Intermediate Representation
+- https://github.com/vnmakarov/mir
 
 ## Monitor
 - https://github.com/trailofbits/monitoring_linux_events
@@ -138,6 +145,10 @@
 - https://github.com/RainingComputers/ShnooTalk
 - https://github.com/spicelang/spice
 - https://github.com/Spencer-Comin/Fern
+- https://github.com/savi-lang/savi
+- https://github.com/artagnon/rhine
+- https://github.com/beefytech/Beef
+- https://github.com/ValeLang/Vale
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
@@ -196,6 +207,8 @@
 - https://reviews.llvm.org/D122084
 - https://github.com/NewWorldComingSoon/llvm-msvc/commit/5fd945166862377be390948c9ab7dab2f47df217
 - https://github.com/llvm/llvm-project/commit/a5f637bcbb7d1e08ce637f113fc117c3f4b2b110
+- https://github.com/llvm/llvm-project/commit/ffe0cc82dbaecde4fd1bb2bca5c6aea59be698a6
+- https://github.com/NewWorldComingSoon/llvm-msvc/commit/ca33d74ca5cefdad929d5c2759f7d80faa6be539
 
 
 ## Testing Tools
@@ -207,6 +220,7 @@
 - https://github.com/LouisJenkinsCS/LLVM-Simple-GUI [View DT&CFG]
 - https://github.com/trailofbits/DomTreSat [Testing DT]
 - https://github.com/CAST-projects/Clang-ast-viewer
+- https://github.com/NewWorldComingSoon/UnknownField [Testing Obfuscated Field]
 
 
 ## LLVM Tutorial
