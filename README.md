@@ -1,6 +1,9 @@
 ![Gitee license](https://img.shields.io/badge/license-MIT-blue.svg)
 # `awesome-llvm-security`
 
+## Guide
+- https://llvm.org/docs
+
 ## OLLVM
 
 - https://github.com/obfuscator-llvm/obfuscator
@@ -57,6 +60,9 @@
 - https://github.com/hfinkel/llvm-project-cxxjit
 - https://github.com/vnmakarov/mir
 
+## Rust Manipulation
+- https://github.com/maekawatoshiki/vicis
+
 ## Intermediate Representation
 - https://github.com/vnmakarov/mir
 
@@ -100,11 +106,13 @@
 - https://github.com/seahorn/clam
 - https://github.com/Veridise/Vanguard [Smart Contracts]
 - https://github.com/KDE/clazy [Qt]
+- https://github.com/GoSSIP-SJTU/TripleDoggy
 
 ## Crash Analysis
 - https://github.com/cisco-open/llvm-crash-analyzer
 
 ## DIY Compiler
+- https://github.com/ethereum/solidity
 - https://github.com/microsoft/checkedc-clang
 - https://github.com/tylerweston/ccc
 - https://github.com/greydevv/cpp-compiler
@@ -149,6 +157,9 @@
 - https://github.com/artagnon/rhine
 - https://github.com/beefytech/Beef
 - https://github.com/ValeLang/Vale
+- https://github.com/NilFoundation/zkLLVM [zk]
+- https://github.com/MoritzGoeckel/MLang
+- https://github.com/SjVer/Evi-Lang
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
@@ -221,6 +232,7 @@
 - https://github.com/trailofbits/DomTreSat [Testing DT]
 - https://github.com/CAST-projects/Clang-ast-viewer
 - https://github.com/NewWorldComingSoon/UnknownField [Testing Obfuscated Field]
+- https://github.com/vaivaswatha/debugir [Debugging IR]
 
 
 ## LLVM Tutorial
