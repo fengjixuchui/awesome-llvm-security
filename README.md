@@ -3,6 +3,7 @@
 
 ## Guide
 - https://llvm.org/docs
+- https://github.com/gmh5225/compiler-class
 
 ## OLLVM
 
@@ -33,6 +34,9 @@
 - https://github.com/scrt/avcleaner [Based Clang]
 - https://github.com/za233/LLVMMyPass
 - https://github.com/GoSSIP-SJTU/Armariris
+- https://github.com/NeHyci/goron-llvm14
+- https://github.com/heroims/obfuscator
+- https://github.com/HikariRebooted/HikariCore
 
 ## LIFT
 - https://github.com/avast/retdec
@@ -55,13 +59,25 @@
 - https://github.com/fvrmatteo/TritonASTLLVMIRTranslator
 - https://github.com/toor-de-force/Ghidra-to-LLVM
 - https://github.com/cbwang505/llvmanalyzer [Retdec Example]
+- https://github.com/GaloisInc/reopt
+- https://github.com/LLVMParty/UnsupportedInstructionsLiftingToLLVM
+- https://github.com/JuliaComputingOSS/llvm-cbe [C Backend]
+
+## libcxx
+- https://github.com/topjohnwu/libcxx [Without Exception and RTTI]
+
+## libunwind 
+- https://github.com/nidefawl/slowstacktrace
 
 ## JIT
 - https://github.com/hfinkel/llvm-project-cxxjit
 - https://github.com/vnmakarov/mir
+- https://discourse.llvm.org/t/write-jitlink-support-for-a-new-format-architecture/60322 [Jitlink]
 
 ## Rust Manipulation
+- https://github.com/jauhien/iron-kaleidoscope [LLVM tutorial in Rust language]
 - https://github.com/maekawatoshiki/vicis
+- https://github.com/TheDan64/inkwell
 
 ## Intermediate Representation
 - https://github.com/vnmakarov/mir
@@ -90,6 +106,9 @@
 ## Mathematics related
 - https://github.com/vgvassilev/clad
 
+## Sanitizer
+- https://github.com/google/sanitizers
+
 ## Static Analysis
 - https://github.com/secure-software-engineering/phasar
 - https://github.com/JohannesLiu/LLVM-Pass-Analysis-Collection
@@ -107,9 +126,14 @@
 - https://github.com/Veridise/Vanguard [Smart Contracts]
 - https://github.com/KDE/clazy [Qt]
 - https://github.com/GoSSIP-SJTU/TripleDoggy
+- https://github.com/seclab-ucr/SUTURE
+- https://github.com/viktormalik/diffkemp [Static analysis of Linux kernel]
 
 ## Crash Analysis
 - https://github.com/cisco-open/llvm-crash-analyzer
+
+## DirectX Shader Compiler
+- https://github.com/EpicGames/DirectXShaderCompiler
 
 ## DIY Compiler
 - https://github.com/ethereum/solidity
@@ -160,6 +184,13 @@
 - https://github.com/NilFoundation/zkLLVM [zk]
 - https://github.com/MoritzGoeckel/MLang
 - https://github.com/SjVer/Evi-Lang
+- https://github.com/greydevv/mango-compiler
+- https://github.com/rems-project/sail
+- https://github.com/Fedjmike/mini-c [C]
+- https://github.com/SerenityOS/jakt
+- https://github.com/ziglang/zig
+- https://github.com/li-script/lightning
+- https://github.com/alinalihassan/Lesma
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
@@ -220,6 +251,8 @@
 - https://github.com/llvm/llvm-project/commit/a5f637bcbb7d1e08ce637f113fc117c3f4b2b110
 - https://github.com/llvm/llvm-project/commit/ffe0cc82dbaecde4fd1bb2bca5c6aea59be698a6
 - https://github.com/NewWorldComingSoon/llvm-msvc/commit/ca33d74ca5cefdad929d5c2759f7d80faa6be539
+- https://github.com/kai-franz/dbds [Based DT]
+- https://github.com/d4rk-kn1gh7/llvm-optimization-pass
 
 
 ## Testing Tools
@@ -233,6 +266,7 @@
 - https://github.com/CAST-projects/Clang-ast-viewer
 - https://github.com/NewWorldComingSoon/UnknownField [Testing Obfuscated Field]
 - https://github.com/vaivaswatha/debugir [Debugging IR]
+- https://github.com/grotius-cnc/Qt_LLVM_App [Testing CPP2IR]
 
 
 ## LLVM Tutorial
@@ -266,6 +300,7 @@
 
 ## Clang Tutorial
 - https://github.com/banach-space/clang-tutor
+- https://github.com/ingve/awesome-clang
 - https://github.com/lahiri-phdworks/LLVM-Examples/tree/master/ClangAST
 - https://github.com/ronnie88597/Notes/tree/master/clang
 - https://github.com/lijiansong/clang-llvm-tutorial
