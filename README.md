@@ -55,6 +55,8 @@
 - https://github.com/JonathanSalwan/Triton/commit/0753a0c097fe637beb25b428ff2f0983f14f96d9
 - https://github.com/JonathanSalwan/Triton/commit/7af202df2064a6dc95d7fa4bd0dbe5635e5a44fa
 - https://github.com/JonathanSalwan/Triton/commit/4e42a22c7a4d970c81875f6474adf284187b452b
+- [Triton:Dead Store Elimination](https://github.com/JonathanSalwan/Triton/issues/1130)
+- [Triton:Solution of the Hack.lu 2021 OLLVM challenge](https://github.com/JonathanSalwan/Triton/commit/9e6eb2492c7b66e8e1ccc14d75eb89705d108746)
 - https://github.com/ergo720/lib86cpu
 - https://github.com/fvrmatteo/TritonASTLLVMIRTranslator
 - https://github.com/toor-de-force/Ghidra-to-LLVM
@@ -201,6 +203,9 @@
 - https://chromium.googlesource.com/chromium/src/+/refs/heads/main/tools/clang/rewrite_to_chrome_style/RewriteToChromeStyle.cpp
 - https://github.com/vgvassilev/clad [Math]
 
+## CIR
+- https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319
+
 ## Clangd
 - https://github.com/clangd/vscode-clangd
 
@@ -297,6 +302,8 @@
 - https://github.com/bigconvience/llvm-ir-in-action [LLVM IR Examples]
 - https://github.com/alexjung/Writing-an-LLVM-Pass-using-the-new-PassManager [New Pass]
 - https://github.com/Radon10043/LLVMDFGPass [LLVM DFG]
+- https://github.com/zslwyuan/LLVM-11-Tutorials
+- https://github.com/wuzhanglin/llvm-IR-examples [LLVM IR]
 
 ## Clang Tutorial
 - https://github.com/banach-space/clang-tutor
