@@ -5,6 +5,9 @@
 - https://llvm.org/docs
 - https://github.com/gmh5225/compiler-class
 
+## IDE Configuration
+- https://github.com/gmh5225/Clion-llvm_build [Clion]
+
 ## OLLVM
 
 - https://github.com/obfuscator-llvm/obfuscator
@@ -34,9 +37,9 @@
 - https://github.com/scrt/avcleaner [Based Clang]
 - https://github.com/za233/LLVMMyPass
 - https://github.com/GoSSIP-SJTU/Armariris
-- https://github.com/NeHyci/goron-llvm14
 - https://github.com/heroims/obfuscator
 - https://github.com/HikariRebooted/HikariCore
+- https://github.com/tsarpaul/llvm-string-obfuscator
 
 ## LIFT
 - https://github.com/avast/retdec
@@ -130,6 +133,7 @@
 - https://github.com/GoSSIP-SJTU/TripleDoggy
 - https://github.com/seclab-ucr/SUTURE
 - https://github.com/viktormalik/diffkemp [Static analysis of Linux kernel]
+- [Lightweight static analysis for many languages. Find bug variants with patterns that look like source code](https://github.com/returntocorp/semgrep)
 
 ## Crash Analysis
 - https://github.com/cisco-open/llvm-crash-analyzer
@@ -193,6 +197,7 @@
 - https://github.com/ziglang/zig
 - https://github.com/li-script/lightning
 - https://github.com/alinalihassan/Lesma
+- https://github.com/gmh5225/Tiny
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
@@ -202,9 +207,12 @@
 - https://github.com/llvm/llvm-project/blob/main/clang/tools/clang-check/ClangCheck.cpp
 - https://chromium.googlesource.com/chromium/src/+/refs/heads/main/tools/clang/rewrite_to_chrome_style/RewriteToChromeStyle.cpp
 - https://github.com/vgvassilev/clad [Math]
+- [Rewrite C++ code to automatically apply `constexpr` where possible](https://github.com/gmh5225/constexpr-everything)
+- [A clang tool for happy refactoring without source-code gymnastics ](https://github.com/goldsborough/clang-expand)
 
 ## CIR
 - https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319
+- https://github.com/facebookincubator/clangir
 
 ## Clangd
 - https://github.com/clangd/vscode-clangd
