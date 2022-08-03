@@ -159,6 +159,8 @@
 - https://github.com/mirkosertic/Bytecoder [JAVA]
 - https://github.com/evanacox/honors-forum-project
 - https://github.com/rui314/chibicc
+- https://github.com/gmh5225/chibicc-riscv64
+- https://github.com/gmh5225/chibicc-riscv
 - https://github.com/Nicholas-Baron/little-lang
 - https://github.com/tj/luna
 - https://github.com/fanx-dev/fanx
@@ -198,6 +200,9 @@
 - https://github.com/li-script/lightning
 - https://github.com/alinalihassan/Lesma
 - https://github.com/gmh5225/Tiny
+- https://github.com/carbon-language/carbon-lang
+- https://github.com/Omyyyy/pycom [python]
+- https://github.com/rakudo/rakudo [Raku]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
@@ -213,6 +218,9 @@
 ## CIR
 - https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319
 - https://github.com/facebookincubator/clangir
+
+## MLIR
+- https://github.com/gmh5225/mlir-cf-pass [out-of-tree pass]
 
 ## Clangd
 - https://github.com/clangd/vscode-clangd
