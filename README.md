@@ -74,7 +74,11 @@
 ## libunwind 
 - https://github.com/nidefawl/slowstacktrace
 
+## trace
+- https://github.com/microsoft/spoor
+
 ## JIT
+- https://github.com/spencertipping/jit-tutorial
 - https://github.com/hfinkel/llvm-project-cxxjit
 - https://github.com/vnmakarov/mir
 - https://discourse.llvm.org/t/write-jitlink-support-for-a-new-format-architecture/60322 [Jitlink]
@@ -217,6 +221,7 @@
 
 ## CIR
 - https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319
+- https://github.com/llvm/clangir
 - https://github.com/facebookincubator/clangir
 
 ## MLIR
