@@ -40,6 +40,12 @@
 - https://github.com/heroims/obfuscator
 - https://github.com/HikariRebooted/HikariCore
 - https://github.com/tsarpaul/llvm-string-obfuscator
+- https://github.com/SsageParuders/SsagePass
+
+> MSVC Warbird
+- https://github.com/gmh5225/warbird-obfuscator
+- https://github.com/gmh5225/warbird-runtime
+- https://github.com/gmh5225/warbirdvm
 
 ## LIFT
 - https://github.com/avast/retdec
@@ -108,6 +114,7 @@
 
 ## Symbolic Execution
 - https://github.com/insufficiently-caffeinated/caffeine
+- https://github.com/R-Fuzz/symsan
 
 ## Runtime Check
 - https://github.com/danteisalive/llvm-typecheking
@@ -206,7 +213,13 @@
 - https://github.com/gmh5225/Tiny
 - https://github.com/carbon-language/carbon-lang
 - https://github.com/Omyyyy/pycom [python]
+- https://github.com/zero9178/Pylir [python]
 - https://github.com/rakudo/rakudo [Raku]
+- https://github.com/agraef/pure-lang
+- https://github.com/Xeouz/vire
+- https://github.com/Sokolmish/cw39
+- https://github.com/lethalbit/clank [A C++ Front-end based on LLVM's clang]
+- https://github.com/Juicestus/Capstone
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
