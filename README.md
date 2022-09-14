@@ -4,6 +4,8 @@
 ## Guide
 - https://llvm.org/docs
 - https://github.com/gmh5225/compiler-class
+- https://www.llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html
+- https://github.com/true-grue/Compiler-Development
 
 ## IDE Configuration
 - https://github.com/gmh5225/Clion-llvm_build [Clion]
@@ -15,6 +17,7 @@
 - https://github.com/amimo/goron
 - https://github.com/emc2314/YANSOllvm
 - https://github.com/HikariObfuscator/Hikari
+- https://github.com/Lessica/HikariSummer
 - https://github.com/DeNA/DeClang
 - https://github.com/0x3f97/ollvm-12.x
 - https://github.com/kk-laoguo/ollvm-13
@@ -41,6 +44,9 @@
 - https://github.com/HikariRebooted/HikariCore
 - https://github.com/tsarpaul/llvm-string-obfuscator
 - https://github.com/SsageParuders/SsagePass
+- https://github.com/eshard/obfuscator-llvm
+- https://github.com/NeHyci/Hikari-LLVM15
+- https://github.com/KpwnZ/sllvm
 
 > MSVC Warbird
 - https://github.com/gmh5225/warbird-obfuscator
@@ -80,6 +86,9 @@
 ## libunwind 
 - https://github.com/nidefawl/slowstacktrace
 
+## Android Kernel
+- https://github.com/nathanchance/android-kernel-clang
+
 ## trace
 - https://github.com/microsoft/spoor
 
@@ -111,6 +120,9 @@
 - https://github.com/aengelke/instrew
 - https://github.com/aengelke/binopt
 - https://github.com/QBDI/QBDI
+
+## Assembly Engine
+- https://github.com/gmh5225/LLVM-ASM-Engine-cheater
 
 ## Symbolic Execution
 - https://github.com/insufficiently-caffeinated/caffeine
@@ -145,6 +157,9 @@
 - https://github.com/seclab-ucr/SUTURE
 - https://github.com/viktormalik/diffkemp [Static analysis of Linux kernel]
 - [Lightweight static analysis for many languages. Find bug variants with patterns that look like source code](https://github.com/returntocorp/semgrep)
+
+## Clang Build Analysis
+- https://github.com/aras-p/ClangBuildAnalyzer
 
 ## Crash Analysis
 - https://github.com/cisco-open/llvm-crash-analyzer
@@ -220,6 +235,21 @@
 - https://github.com/Sokolmish/cw39
 - https://github.com/lethalbit/clank [A C++ Front-end based on LLVM's clang]
 - https://github.com/Juicestus/Capstone
+- https://github.com/ange-yaghi/piranha
+- https://github.com/leanprover/lean4
+- https://github.com/krispybyte/virtual-machine [A virtual machine with an included lexer]
+- https://github.com/glouw/c8c [compiler, assembler, and virtual machine]
+- https://github.com/NVIDIA/MDL-SDK [NVIDIA Material Definition Language SDK]
+- https://github.com/spicelang/spice
+- https://github.com/yume-lang/yume
+- https://github.com/Nicholas-Baron/little-lang
+- https://github.com/kamkow1/yup
+- https://github.com/brwhale/KataScript [Script]
+- https://github.com/XChy/XSharp
+- https://github.com/alan123piano/functional-lang
+- https://github.com/KCreate/charly-vm [Bytecode virtual machine]
+- https://github.com/xinyu-evolutruster/CsGo-Compiler
+- https://github.com/thradams/cake [Cake a C23 front end and transpiler written in C]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
@@ -338,6 +368,7 @@
 - https://github.com/Radon10043/LLVMDFGPass [LLVM DFG]
 - https://github.com/zslwyuan/LLVM-11-Tutorials
 - https://github.com/wuzhanglin/llvm-IR-examples [LLVM IR]
+- https://github.com/smlnj/smlnj-llvm [Calling Convention]
 
 ## Clang Tutorial
 - https://github.com/banach-space/clang-tutor
@@ -360,5 +391,8 @@
 - http://www.craftinginterpreters.com/contents.html
 - https://github.com/GuoYaxiang/craftinginterpreters_zh
 - https://github.com/tuoxie007/play_with_llvm [CN]
+
+## Jobs
+- https://github.com/mgaudet/CompilerJobs
 
 
