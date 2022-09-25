@@ -3,6 +3,7 @@
 
 ## Guide
 - https://llvm.org/docs
+- https://github.com/aalhour/awesome-compilers
 - https://github.com/gmh5225/compiler-class
 - https://www.llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html
 - https://github.com/true-grue/Compiler-Development
@@ -79,6 +80,7 @@
 - https://github.com/GaloisInc/reopt
 - https://github.com/LLVMParty/UnsupportedInstructionsLiftingToLLVM
 - https://github.com/JuliaComputingOSS/llvm-cbe [C Backend]
+- https://github.com/praeclarum/Iril [LLVM IR to IL]
 
 ## libcxx
 - https://github.com/topjohnwu/libcxx [Without Exception and RTTI]
@@ -157,6 +159,7 @@
 - https://github.com/seclab-ucr/SUTURE
 - https://github.com/viktormalik/diffkemp [Static analysis of Linux kernel]
 - [Lightweight static analysis for many languages. Find bug variants with patterns that look like source code](https://github.com/returntocorp/semgrep)
+- https://github.com/satya-das/cppparser [A library to parse C/C++ source as AST]
 
 ## Clang Build Analysis
 - https://github.com/aras-p/ClangBuildAnalyzer
@@ -251,6 +254,12 @@
 - https://github.com/xinyu-evolutruster/CsGo-Compiler
 - https://github.com/thradams/cake [Cake a C23 front end and transpiler written in C]
 - https://github.com/garc0/GachiC
+- https://github.com/Retr0Wawe/STXA
+- https://github.com/eokas/eokas-lang
+- https://github.com/parsabee/Quack-v2
+- https://github.com/darealvenum/Flare
+- https://github.com/jzimmerman/langcc [A Next-Generation Compiler Compiler]
+- https://github.com/objeck/objeck-lang [Modern object-oriented and functional programming language]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
@@ -366,6 +375,7 @@
 - https://llvm.org/docs/PDB/index.html [LLVM PDB]
 - https://github.com/bigconvience/llvm-ir-in-action [LLVM IR Examples]
 - https://github.com/alexjung/Writing-an-LLVM-Pass-using-the-new-PassManager [New Pass]
+- https://github.com/sepy97/newPM_LLVM_pass [New Pass]
 - https://github.com/Radon10043/LLVMDFGPass [LLVM DFG]
 - https://github.com/zslwyuan/LLVM-11-Tutorials
 - https://github.com/wuzhanglin/llvm-IR-examples [LLVM IR]
