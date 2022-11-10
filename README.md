@@ -1,5 +1,7 @@
-![Gitee license](https://img.shields.io/badge/license-MIT-blue.svg)
+
 # `awesome-llvm-security`
+
+[![GitHub license](https://img.shields.io/github/license/gmh5225/awesome-llvm-security)](https://github.com/gmh5225/awesome-llvm-security/blob/main/LICENSE)
 
 ## Guide
 - https://llvm.org/docs
@@ -48,8 +50,9 @@
 - https://github.com/eshard/obfuscator-llvm
 - https://github.com/NeHyci/Hikari-LLVM15
 - https://github.com/KpwnZ/sllvm
+- https://github.com/open-obfuscator/o-mvll
 
-> MSVC Warbird
+## MSVC Warbird
 - https://github.com/gmh5225/warbird-obfuscator
 - https://github.com/gmh5225/warbird-runtime
 - https://github.com/gmh5225/warbirdvm
@@ -160,6 +163,8 @@
 - https://github.com/viktormalik/diffkemp [Static analysis of Linux kernel]
 - [Lightweight static analysis for many languages. Find bug variants with patterns that look like source code](https://github.com/returntocorp/semgrep)
 - https://github.com/satya-das/cppparser [A library to parse C/C++ source as AST]
+- [Static analysis tool based on clang, which detects source-to-binary information leaks in C and C++ projects](https://github.com/ergrelet/cpplumber)
+- https://github.com/CryptoExperts/wyverse [White-box analytic framework based on LLVM ]
 
 ## Clang Build Analysis
 - https://github.com/aras-p/ClangBuildAnalyzer
@@ -184,6 +189,7 @@
 - https://github.com/tinygo-org/tinygo [GO]
 - https://github.com/ab25cq/comelang
 - https://github.com/sleirsgoevy/ps4-rop-8cc
+- https://github.com/keiichiw/constexpr-8cc
 - https://github.com/egunnarsson/llfp
 - https://github.com/mirkosertic/Bytecoder [JAVA]
 - https://github.com/evanacox/honors-forum-project
@@ -260,6 +266,14 @@
 - https://github.com/darealvenum/Flare
 - https://github.com/jzimmerman/langcc [A Next-Generation Compiler Compiler]
 - https://github.com/objeck/objeck-lang [Modern object-oriented and functional programming language]
+- https://github.com/Kindelia/Kind2 [A next-gen functional language]
+- https://github.com/phate/jlm [A research compiler based on the RVSDG IR]
+- https://github.com/memoryleak47/lua2llvm
+- https://github.com/KianShepherd/dusk
+- https://github.com/f0xeri/SlangCompiler
+- https://github.com/davidgiven/calculon
+- https://github.com/epoll-reactor/weak_compiler
+- https://github.com/JuliaPoo/Artfuscator [Art compiler]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
@@ -309,6 +323,9 @@
 - https://github.com/llvm/llvm-project/commit/8cd8bd4a5ca702024b9df53a9c7984bb700488a0 [intrinsics]
 - https://github.com/llvm/llvm-project/commit/67d9276b16024bae66dfc2fcb739d947637b8c52
 
+## X86
+- [Add WRMSRNS instructions](https://github.com/llvm/llvm-project/commit/3ee58e2f355f8fdb8e0fe29dc366c8833fafa7d3#diff-9b86f2920663e81557799fbbd887a211dfd3358e91f671a767b3786fbd802045)
+- [Support PREFETCHI instructions](https://github.com/NewWorldComingSoon/llvm-msvc/commit/62ca79102cf9646aa9ed0dac7f018432a68eedf1)
 
 ## Optimization
 - https://discourse.llvm.org/t/rfc-cmov-vs-branch-optimization/6040
@@ -380,6 +397,7 @@
 - https://github.com/zslwyuan/LLVM-11-Tutorials
 - https://github.com/wuzhanglin/llvm-IR-examples [LLVM IR]
 - https://github.com/smlnj/smlnj-llvm [Calling Convention]
+- https://github.com/Jonathan2251/lbd [backend]
 
 ## Clang Tutorial
 - https://github.com/banach-space/clang-tutor
