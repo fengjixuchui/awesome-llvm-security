@@ -84,6 +84,7 @@
 - https://github.com/LLVMParty/UnsupportedInstructionsLiftingToLLVM
 - https://github.com/JuliaComputingOSS/llvm-cbe [C Backend]
 - https://github.com/praeclarum/Iril [LLVM IR to IL]
+- https://github.com/trailofbits/binrec-tob [Dynamic Binary Lifting and Recompilation]
 
 ## libcxx
 - https://github.com/topjohnwu/libcxx [Without Exception and RTTI]
@@ -274,6 +275,7 @@
 - https://github.com/davidgiven/calculon
 - https://github.com/epoll-reactor/weak_compiler
 - https://github.com/JuliaPoo/Artfuscator [Art compiler]
+- https://github.com/Ma11ock/holyc [C variant]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
