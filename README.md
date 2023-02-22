@@ -3,6 +3,10 @@
 
 [![GitHub license](https://img.shields.io/github/license/gmh5225/awesome-llvm-security)](https://github.com/gmh5225/awesome-llvm-security/blob/main/LICENSE)
 
+## How to contribute?
+- https://github.com/HyunCafe/contribute-practice
+- https://docs.github.com/en/get-started/quickstart/contributing-to-projects
+
 ## Guide
 - https://llvm.org/docs
 - https://github.com/aalhour/awesome-compilers
@@ -51,6 +55,7 @@
 - https://github.com/NeHyci/Hikari-LLVM15
 - https://github.com/KpwnZ/sllvm
 - https://github.com/open-obfuscator/o-mvll
+- https://github.com/trustdecision/td-ollvm
 
 ## MSVC Warbird
 - https://github.com/gmh5225/warbird-obfuscator
@@ -85,6 +90,9 @@
 - https://github.com/JuliaComputingOSS/llvm-cbe [C Backend]
 - https://github.com/praeclarum/Iril [LLVM IR to IL]
 - https://github.com/trailofbits/binrec-tob [Dynamic Binary Lifting and Recompilation]
+- https://github.com/fay59/fcd
+- https://github.com/relyze-ltd/LibTCGTranslate [TCG]
+- https://github.com/katrinafyi/llvm-translator
 
 ## libcxx
 - https://github.com/topjohnwu/libcxx [Without Exception and RTTI]
@@ -103,11 +111,14 @@
 - https://github.com/hfinkel/llvm-project-cxxjit
 - https://github.com/vnmakarov/mir
 - https://discourse.llvm.org/t/write-jitlink-support-for-a-new-format-architecture/60322 [Jitlink]
+- https://github.com/jmmartinez/easy-just-in-time [just-in-time compiler for C++]
+- https://github.com/YutaroOrikasa/ljf-project [LLVM based JIT Framework]
 
 ## Rust Manipulation
 - https://github.com/jauhien/iron-kaleidoscope [LLVM tutorial in Rust language]
 - https://github.com/maekawatoshiki/vicis
 - https://github.com/TheDan64/inkwell
+- https://github.com/jamesmth/llvm-plugin-rs [Out-of-tree LLVM passes in Rust]
 
 ## Intermediate Representation
 - https://github.com/vnmakarov/mir
@@ -166,6 +177,7 @@
 - https://github.com/satya-das/cppparser [A library to parse C/C++ source as AST]
 - [Static analysis tool based on clang, which detects source-to-binary information leaks in C and C++ projects](https://github.com/ergrelet/cpplumber)
 - https://github.com/CryptoExperts/wyverse [White-box analytic framework based on LLVM ]
+- https://github.com/LLVM-but-worse/maple-ir [Java]
 
 ## Clang Build Analysis
 - https://github.com/aras-p/ClangBuildAnalyzer
@@ -175,6 +187,10 @@
 
 ## DirectX Shader Compiler
 - https://github.com/EpicGames/DirectXShaderCompiler
+
+## Virtual Machine 
+- https://github.com/jakogut/tinyvm
+- https://github.com/gmh5225/tinyvm-msvc
 
 ## DIY Compiler
 - https://github.com/ethereum/solidity
@@ -276,6 +292,21 @@
 - https://github.com/epoll-reactor/weak_compiler
 - https://github.com/JuliaPoo/Artfuscator [Art compiler]
 - https://github.com/Ma11ock/holyc [C variant]
+- https://github.com/ianfun/xcc [Small C Compiler written in C++]
+- https://github.com/tjysdsg/tan
+- https://github.com/One-Language/One
+- https://github.com/1whatleytay/kara [Easy-to-use, blazing-fast]
+- https://github.com/forrestchang/gptlang [ChatGPT]
+- https://github.com/exaloop/codon [python]
+- https://github.com/ASDAlexander77/TypeScriptCompiler [TypeScript]
+- https://github.com/PaddlePaddle/CINN [Neural Networks]
+- https://github.com/momentarylapse/kaba
+- https://github.com/viper-org/viper-lang [C]
+- https://github.com/ab25cq/neo-c
+- https://github.com/cgsdfc/simplecc [C]
+- https://github.com/WerWolv/PatternLanguage [ImHex]
+- https://github.com/DavidPH/GDCC [Game Data Compiler Collection]
+- https://github.com/jephthai/EvilVM [Information security research tools]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
@@ -287,6 +318,7 @@
 - https://github.com/vgvassilev/clad [Math]
 - [Rewrite C++ code to automatically apply `constexpr` where possible](https://github.com/gmh5225/constexpr-everything)
 - [A clang tool for happy refactoring without source-code gymnastics ](https://github.com/goldsborough/clang-expand)
+- [Clang-based tool to dump type information (enums, records, vtables) from a C++ codebase and optionally import it into IDA](https://github.com/leoetlino/classgen)
 
 ## CIR
 - https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319
@@ -351,6 +383,8 @@
 - https://github.com/NewWorldComingSoon/llvm-msvc/commit/ca33d74ca5cefdad929d5c2759f7d80faa6be539
 - https://github.com/kai-franz/dbds [Based DT]
 - https://github.com/d4rk-kn1gh7/llvm-optimization-pass
+- https://github.com/UofT-EcoSystem/CSCD70 [CSCD70 Compiler Optimization]
+- https://github.com/AliveToolkit/alive2 [Automatic verification of LLVM optimizations]
 
 
 ## Testing Tools
