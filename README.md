@@ -57,6 +57,7 @@
 - https://github.com/KpwnZ/sllvm
 - https://github.com/open-obfuscator/o-mvll
 - https://github.com/trustdecision/td-ollvm
+- https://github.com/GANGE666/xVMP
 
 ## MSVC Warbird
 - https://github.com/gmh5225/warbird-obfuscator
@@ -66,6 +67,7 @@
 ## LIFT
 - https://github.com/avast/retdec
 - https://github.com/lifting-bits/mcsema
+- https://github.com/revng/revng
 - https://github.com/LLVMParty/TicklingVMProtect
 - https://github.com/microsoft/llvm-mctoll
 - https://github.com/sh4m2hwz/triton_ast_llvm_ir_translator
@@ -114,6 +116,7 @@
 - https://discourse.llvm.org/t/write-jitlink-support-for-a-new-format-architecture/60322 [Jitlink]
 - https://github.com/jmmartinez/easy-just-in-time [just-in-time compiler for C++]
 - https://github.com/YutaroOrikasa/ljf-project [LLVM based JIT Framework]
+- https://github.com/JLLVM/JLLVM [JVM implementation using LLVM as a JIT]
 
 ## Rust Manipulation
 - https://github.com/jauhien/iron-kaleidoscope [LLVM tutorial in Rust language]
@@ -309,6 +312,7 @@
 - https://github.com/DavidPH/GDCC [Game Data Compiler Collection]
 - https://github.com/jephthai/EvilVM [Information security research tools]
 - https://github.com/tathanhdinh/tocc [A untyped C compiler]
+- https://github.com/AmrDeveloper/Jot
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
@@ -329,6 +333,8 @@
 
 ## MLIR
 - https://github.com/gmh5225/mlir-cf-pass [out-of-tree pass]
+- https://github.com/openxla/iree [MLIR compiler]
+- https://github.com/openxla/xla [MLIR compiler]
 
 ## Clangd
 - https://github.com/clangd/vscode-clangd
