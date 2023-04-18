@@ -13,6 +13,7 @@
 - https://github.com/gmh5225/compiler-class
 - https://www.llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html
 - https://github.com/true-grue/Compiler-Development
+- https://github.com/rust-hosted-langs/book [Writing Interpreters in Rust]
 
 ## IDE Configuration
 - https://github.com/gmh5225/Clion-llvm_build [Clion]
@@ -58,6 +59,10 @@
 - https://github.com/open-obfuscator/o-mvll
 - https://github.com/trustdecision/td-ollvm
 - https://github.com/GANGE666/xVMP
+- https://github.com/KomiMoe/Arkari
+- https://github.com/Yuerino/obfuscator-pass
+- https://github.com/Slattz/ObfusC
+- https://github.com/Colerar/labyrinth
 
 ## MSVC Warbird
 - https://github.com/gmh5225/warbird-obfuscator
@@ -96,6 +101,8 @@
 - https://github.com/fay59/fcd
 - https://github.com/relyze-ltd/LibTCGTranslate [TCG]
 - https://github.com/katrinafyi/llvm-translator
+- https://github.com/cojocar/bin2llvm
+- https://github.com/staticafi/llvm2c [IR->C]
 
 ## libcxx
 - https://github.com/topjohnwu/libcxx [Without Exception and RTTI]
@@ -313,6 +320,12 @@
 - https://github.com/jephthai/EvilVM [Information security research tools]
 - https://github.com/tathanhdinh/tocc [A untyped C compiler]
 - https://github.com/AmrDeveloper/Jot
+- https://github.com/pducklin/minimalisti-C [A stripped-downTiny CC for 64-bit Windows]
+- https://github.com/AdamOron/LightweightCompiler
+- https://github.com/wangyu-/mycc [C]
+- https://github.com/swetanjal/MiniC-Compiler [C]
+- https://github.com/mixr26/mxrlang
+- https://github.com/pflynn157/orka
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
@@ -437,6 +450,7 @@
 - https://github.com/bigconvience/llvm-ir-in-action [LLVM IR Examples]
 - https://github.com/alexjung/Writing-an-LLVM-Pass-using-the-new-PassManager [New Pass]
 - https://github.com/sepy97/newPM_LLVM_pass [New Pass]
+- https://github.com/jvstech/windows-gpt-transform [New Pass]
 - https://github.com/Radon10043/LLVMDFGPass [LLVM DFG]
 - https://github.com/zslwyuan/LLVM-11-Tutorials
 - https://github.com/wuzhanglin/llvm-IR-examples [LLVM IR]
