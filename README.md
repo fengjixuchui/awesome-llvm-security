@@ -9,6 +9,8 @@
 
 ## Guide
 - https://llvm.org/docs
+- https://github.com/learn-llvm/awesome-llvm
+- https://github.com/DoctorWkt/acwj
 - https://github.com/aalhour/awesome-compilers
 - https://github.com/gmh5225/compiler-class
 - https://www.llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html
@@ -26,12 +28,15 @@
 - https://github.com/emc2314/YANSOllvm
 - https://github.com/HikariObfuscator/Hikari
 - https://github.com/Lessica/HikariSummer
+- https://github.com/NeHyci/Hikari-LLVM15
 - https://github.com/NeHyci/Hikari-LLVM15-Core
+- https://github.com/HakonHarnes/emcc-obf [Hikari]
 - https://github.com/DeNA/DeClang
 - https://github.com/0x3f97/ollvm-12.x
 - https://github.com/kk-laoguo/ollvm-13
 - https://github.com/redheart923/ollvm-ext
 - https://github.com/o2e/OLLVM-9.0.1
+- https://github.com/s3team/gdop
 - https://github.com/wolfm/extended-gdop
 - https://github.com/bigBestWay/CodeObfs
 - https://github.com/SheLLVM/SheLLVM
@@ -54,7 +59,6 @@
 - https://github.com/tsarpaul/llvm-string-obfuscator
 - https://github.com/SsageParuders/SsagePass
 - https://github.com/eshard/obfuscator-llvm
-- https://github.com/NeHyci/Hikari-LLVM15
 - https://github.com/KpwnZ/sllvm
 - https://github.com/open-obfuscator/o-mvll
 - https://github.com/trustdecision/td-ollvm
@@ -326,6 +330,13 @@
 - https://github.com/swetanjal/MiniC-Compiler [C]
 - https://github.com/mixr26/mxrlang
 - https://github.com/pflynn157/orka
+- https://github.com/drmortalwombat/oscar64
+- https://github.com/GregorGullwi/FlashCpp
+- https://github.com/BrandonKi/BF-Compiler [Compiler for Brainfuck]
+- https://github.com/project-type/type-c
+- https://github.com/thepowersgang/mrustc [rust]
+- https://github.com/acd1034/try-rust [C Compiler Frontend in Rust]
+- https://github.com/x8xx/p4c-s4 [Backend for the P4 compiler targeting S4]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
