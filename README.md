@@ -67,11 +67,17 @@
 - https://github.com/Yuerino/obfuscator-pass
 - https://github.com/Slattz/ObfusC
 - https://github.com/Colerar/labyrinth
+- https://github.com/joaovarelas/Obfuscator-LLVM-16.0 [OLLVM 16]
+- https://github.com/MustangYM/ShelbyObfuscator [OLLVM 16]
+- https://github.com/AimiP02/BronyaObfus [OLLVM 16]
+- https://github.com/wwh1004/ollvm-16 [OLLVM 16]
 
 ## MSVC Warbird
 - https://github.com/gmh5225/warbird-obfuscator
 - https://github.com/gmh5225/warbird-runtime
 - https://github.com/gmh5225/warbirdvm
+- https://github.com/DownWithUp/WarbirdExamples
+- https://github.com/gmh5225/warbird-example
 
 ## LIFT
 - https://github.com/avast/retdec
@@ -107,6 +113,7 @@
 - https://github.com/katrinafyi/llvm-translator
 - https://github.com/cojocar/bin2llvm
 - https://github.com/staticafi/llvm2c [IR->C]
+- https://github.com/sunfishcode/llvm2cranelift [LLVM IR to Cranelift IR]
 
 ## libcxx
 - https://github.com/topjohnwu/libcxx [Without Exception and RTTI]
@@ -128,6 +135,7 @@
 - https://github.com/jmmartinez/easy-just-in-time [just-in-time compiler for C++]
 - https://github.com/YutaroOrikasa/ljf-project [LLVM based JIT Framework]
 - https://github.com/JLLVM/JLLVM [JVM implementation using LLVM as a JIT]
+- https://github.com/Themaister/MIPS-LLVM-Jitter [MIPS to LLVM IR recompiler]
 
 ## Rust Manipulation
 - https://github.com/jauhien/iron-kaleidoscope [LLVM tutorial in Rust language]
@@ -147,6 +155,8 @@
 
 ## WASM
 - https://github.com/leaningtech/cheerp-compiler
+- https://github.com/wasmerio/wasmer
+- https://github.com/bytecodealliance/wasmtime
 
 ## Dynamic Binary Instrumentation
 - https://github.com/aengelke/instrew
@@ -233,6 +243,7 @@
 - https://github.com/fanx-dev/fanx
 - https://github.com/PipeRift/rift
 - https://github.com/lotabout/write-a-C-interpreter
+- https://github.com/root-project/cling [C++ interpreter]
 - https://github.com/alinalihassan/Lesma
 - https://github.com/RoryBrennan1999/PythonCompiler
 - https://github.com/skvadrik/re2c [Lexer]
@@ -262,7 +273,7 @@
 - https://github.com/greydevv/mango-compiler
 - https://github.com/rems-project/sail
 - https://github.com/Fedjmike/mini-c [C]
-- https://github.com/SerenityOS/jakt
+- https://github.com/SerenityOS/jakt [memory-safe]
 - https://github.com/ziglang/zig
 - https://github.com/li-script/lightning
 - https://github.com/alinalihassan/Lesma
@@ -337,6 +348,8 @@
 - https://github.com/thepowersgang/mrustc [rust]
 - https://github.com/acd1034/try-rust [C Compiler Frontend in Rust]
 - https://github.com/x8xx/p4c-s4 [Backend for the P4 compiler targeting S4]
+- https://github.com/inko-lang/inko [A language for building concurrent software with confidence]
+- https://github.com/grassator/mass [Compile-time execution]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
@@ -356,6 +369,7 @@
 - https://github.com/facebookincubator/clangir
 
 ## MLIR
+- https://github.com/j2kun/mlir-tutorial [MLIR For Beginners]
 - https://github.com/gmh5225/mlir-cf-pass [out-of-tree pass]
 - https://github.com/openxla/iree [MLIR compiler]
 - https://github.com/openxla/xla [MLIR compiler]
@@ -468,6 +482,7 @@
 - https://github.com/smlnj/smlnj-llvm [Calling Convention]
 - https://github.com/Jonathan2251/lbd [backend]
 - https://github.com/lac-dcc/llvm-course
+- https://github.com/vhiribarren/llvm-tuto-kaleidoscope-rust [Kaleidoscope rust]
 
 ## Clang Tutorial
 - https://github.com/banach-space/clang-tutor
