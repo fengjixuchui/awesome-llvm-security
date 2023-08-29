@@ -67,6 +67,8 @@
 - https://github.com/Yuerino/obfuscator-pass
 - https://github.com/Slattz/ObfusC
 - https://github.com/Colerar/labyrinth
+- https://github.com/aiglematth/simple_obfuscator
+- https://github.com/Despire/llvm-obfuscator
 - https://github.com/joaovarelas/Obfuscator-LLVM-16.0 [OLLVM 16]
 - https://github.com/MustangYM/ShelbyObfuscator [OLLVM 16]
 - https://github.com/AimiP02/BronyaObfus [OLLVM 16]
@@ -350,6 +352,11 @@
 - https://github.com/x8xx/p4c-s4 [Backend for the P4 compiler targeting S4]
 - https://github.com/inko-lang/inko [A language for building concurrent software with confidence]
 - https://github.com/grassator/mass [Compile-time execution]
+- https://github.com/dtcxzyw/cmmc [CPP]
+- https://github.com/ArthurPV/lily
+- https://github.com/leaningtech/cheerp-compiler [C++ compiler for Web]
+- https://github.com/raustin9/ThunderBirdCompiler
+- https://github.com/c3lang/c3c [compatibility with C]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
