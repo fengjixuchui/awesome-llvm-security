@@ -24,12 +24,14 @@
 
 - https://github.com/obfuscator-llvm/obfuscator
 - https://github.com/isrc-cas/flounder
+- https://github.com/romangol/Armariries
 - https://github.com/amimo/goron
 - https://github.com/emc2314/YANSOllvm
 - https://github.com/HikariObfuscator/Hikari
 - https://github.com/Lessica/HikariSummer
 - https://github.com/NeHyci/Hikari-LLVM15
 - https://github.com/NeHyci/Hikari-LLVM15-Core
+- https://github.com/61bcdefg/Hikari-LLVM15-Headers
 - https://github.com/HakonHarnes/emcc-obf [Hikari]
 - https://github.com/DeNA/DeClang
 - https://github.com/0x3f97/ollvm-12.x
@@ -47,6 +49,7 @@
 - https://github.com/veritas501/ToyObfuscator
 - https://github.com/tsarpaul/llvm-string-obfuscator
 - https://github.com/crvvdev/obfuscator
+- https://github.com/zzrcxb/fusor
 - https://github.com/bluesadi/Pluto-Obfuscator
 - https://github.com/MaxXor/obfuscator-llvm
 - https://github.com/svv232/1nsanity
@@ -69,10 +72,12 @@
 - https://github.com/Colerar/labyrinth
 - https://github.com/aiglematth/simple_obfuscator
 - https://github.com/Despire/llvm-obfuscator
+- https://github.com/DrShabulaji/Paper_Obfs
 - https://github.com/joaovarelas/Obfuscator-LLVM-16.0 [OLLVM 16]
 - https://github.com/MustangYM/ShelbyObfuscator [OLLVM 16]
 - https://github.com/AimiP02/BronyaObfus [OLLVM 16]
 - https://github.com/wwh1004/ollvm-16 [OLLVM 16]
+- https://github.com/killvxk/llvm-msvc-ex [OLLVM 18]
 
 ## MSVC Warbird
 - https://github.com/gmh5225/warbird-obfuscator
@@ -116,6 +121,9 @@
 - https://github.com/cojocar/bin2llvm
 - https://github.com/staticafi/llvm2c [IR->C]
 - https://github.com/sunfishcode/llvm2cranelift [LLVM IR to Cranelift IR]
+- https://github.com/trailofbits/circuitous [binary->LLVM->circuits]
+- https://github.com/superblaubeere27/masxinlingvonta [JVM->LLVM IR]
+- https://github.com/jagv091205/Python_to_C_converter [Python->C]
 
 ## libcxx
 - https://github.com/topjohnwu/libcxx [Without Exception and RTTI]
@@ -194,6 +202,8 @@
 - https://github.com/joernio/joern
 - https://github.com/enochii/simple-pointer-analysis [Pointer analysis]
 - https://github.com/grievejia/andersen [Pointer analysis]
+- https://github.com/GaloisInc/yapall [Pointer analysis]
+- https://github.com/shivin101/Compiler-Pass [Liveness analysis]
 - https://github.com/seahorn/clam
 - https://github.com/Veridise/Vanguard [Smart Contracts]
 - https://github.com/KDE/clazy [Qt]
@@ -223,6 +233,7 @@
 - https://github.com/ethereum/solidity
 - https://github.com/microsoft/checkedc-clang
 - https://github.com/tylerweston/ccc
+- https://github.com/kumachan-mis/umlcc [C]
 - https://github.com/greydevv/cpp-compiler
 - https://github.com/stardust95/TinyCompiler
 - https://github.com/drop-stones/Tiny-C
@@ -231,6 +242,7 @@
 - https://github.com/PLC-lang/rusty
 - https://github.com/henne90gen/Neon
 - https://github.com/tinygo-org/tinygo [GO]
+- https://github.com/go-llvm/llgo [GO]
 - https://github.com/ab25cq/comelang
 - https://github.com/sleirsgoevy/ps4-rop-8cc
 - https://github.com/keiichiw/constexpr-8cc
@@ -245,6 +257,7 @@
 - https://github.com/fanx-dev/fanx
 - https://github.com/PipeRift/rift
 - https://github.com/lotabout/write-a-C-interpreter
+- https://github.com/foonathan/clauf [C interpreter]
 - https://github.com/root-project/cling [C++ interpreter]
 - https://github.com/alinalihassan/Lesma
 - https://github.com/RoryBrennan1999/PythonCompiler
@@ -257,6 +270,7 @@
 - https://github.com/arcsysu/SYsU-lang
 - https://github.com/skyzluo/CS143-Compilers-Stanford
 - https://github.com/TinyCC/tinycc [tcc]
+- https://github.com/alekmaul/tcc [tcc]
 - https://github.com/rswier/c4 [c4]
 - https://github.com/EarlGray/c4 [c4 jit]
 - https://bellard.org/otcc [otcc-c4]
@@ -357,6 +371,13 @@
 - https://github.com/leaningtech/cheerp-compiler [C++ compiler for Web]
 - https://github.com/raustin9/ThunderBirdCompiler
 - https://github.com/c3lang/c3c [compatibility with C]
+- https://github.com/zourenDevote/KaleidoscopeLanguage [Kaleidoscope]
+- https://github.com/gmh5225/PJDCc [PJDC]
+- https://github.com/arnetheduck/nlvm [Nim]
+- https://github.com/brymer-meneses/lev-lang [Python's syntax]
+- https://github.com/gmh5225/synthex-lang/tree/master [rust style]
+- https://github.com/Ttimofeyka/Rave
+- https://github.com/sasalla23/ni
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
