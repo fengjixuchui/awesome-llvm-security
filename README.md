@@ -20,12 +20,16 @@
 ## IDE Configuration
 - https://github.com/gmh5225/Clion-llvm_build [Clion]
 
-## OLLVM
+## Toolchain 
+- https://github.com/Kenvyra/llvm-android [Android LLVM toolchain build scripts]
+- https://github.com/swift-nav/swift-toolchains [toolchains used at Swift]
 
+## OLLVM
 - https://github.com/obfuscator-llvm/obfuscator
 - https://github.com/isrc-cas/flounder
 - https://github.com/romangol/Armariries
 - https://github.com/amimo/goron
+- https://github.com/Ylarod/goron [ndk21]
 - https://github.com/emc2314/YANSOllvm
 - https://github.com/HikariObfuscator/Hikari
 - https://github.com/Lessica/HikariSummer
@@ -37,7 +41,9 @@
 - https://github.com/0x3f97/ollvm-12.x
 - https://github.com/kk-laoguo/ollvm-13
 - https://github.com/redheart923/ollvm-ext
-- https://github.com/o2e/OLLVM-9.0.1
+- https://github.com/sterling0x1/android-ndk-aarch64-host-LLVM6.0-Ollvm-Armariris [ndk17]
+- https://github.com/o2e/OLLVM-9.0.1 [ndk-r21d]
+- https://github.com/Ant-tree/ObfuscatorNDK [ndk23]
 - https://github.com/s3team/gdop
 - https://github.com/wolfm/extended-gdop
 - https://github.com/bigBestWay/CodeObfs
@@ -73,6 +79,9 @@
 - https://github.com/aiglematth/simple_obfuscator
 - https://github.com/Despire/llvm-obfuscator
 - https://github.com/DrShabulaji/Paper_Obfs
+- https://github.com/janoglezcampos/llvm-yx-callobfuscator
+- https://github.com/Brythzz/cfg-flattening-pass [CFG Flattening for LLVM 17]
+- https://github.com/dwuid/chenxification [OLLVM 4]
 - https://github.com/joaovarelas/Obfuscator-LLVM-16.0 [OLLVM 16]
 - https://github.com/MustangYM/ShelbyObfuscator [OLLVM 16]
 - https://github.com/AimiP02/BronyaObfus [OLLVM 16]
@@ -124,6 +133,9 @@
 - https://github.com/trailofbits/circuitous [binary->LLVM->circuits]
 - https://github.com/superblaubeere27/masxinlingvonta [JVM->LLVM IR]
 - https://github.com/jagv091205/Python_to_C_converter [Python->C]
+- https://github.com/TBSI-RIOS-Lab/elf-lifter [RISC-V Binary Lifting]
+- https://github.com/jeremy-rifkin/wyrm [GCC GIMPLE to LLVM IR]
+- https://github.com/loyaltypollution/ida2llvm [IDA to LLVM]
 
 ## libcxx
 - https://github.com/topjohnwu/libcxx [Without Exception and RTTI]
@@ -179,12 +191,17 @@
 ## Symbolic Execution
 - https://github.com/insufficiently-caffeinated/caffeine
 - https://github.com/R-Fuzz/symsan
+- https://github.com/PLSysSec/haybale
+- https://github.com/eurecom-s3/symcc
 
 ## Runtime Check
 - https://github.com/danteisalive/llvm-typecheking
 
 ## Mathematics related
 - https://github.com/vgvassilev/clad
+
+## Memory Leak Detector
+- https://github.com/hygoni/precise-leak-sanitizer
 
 ## Sanitizer
 - https://github.com/google/sanitizers
@@ -228,6 +245,9 @@
 ## Virtual Machine 
 - https://github.com/jakogut/tinyvm
 - https://github.com/gmh5225/tinyvm-msvc
+- https://github.com/marcosantos98/llvm-test
+- https://github.com/thesecretclub/riscy-business [RISC-V]
+- https://github.com/MaxXSoft/sigma-vm [Sigma]
 
 ## DIY Compiler
 - https://github.com/ethereum/solidity
@@ -271,6 +291,7 @@
 - https://github.com/skyzluo/CS143-Compilers-Stanford
 - https://github.com/TinyCC/tinycc [tcc]
 - https://github.com/alekmaul/tcc [tcc]
+- https://github.com/rochus-keller/TccGen [tcc]
 - https://github.com/rswier/c4 [c4]
 - https://github.com/EarlGray/c4 [c4 jit]
 - https://bellard.org/otcc [otcc-c4]
@@ -289,6 +310,8 @@
 - https://github.com/greydevv/mango-compiler
 - https://github.com/rems-project/sail
 - https://github.com/Fedjmike/mini-c [C]
+- https://github.com/masyagin1998/CSC [C]
+- https://github.com/larmel/lacc [C]
 - https://github.com/SerenityOS/jakt [memory-safe]
 - https://github.com/ziglang/zig
 - https://github.com/li-script/lightning
@@ -374,10 +397,26 @@
 - https://github.com/zourenDevote/KaleidoscopeLanguage [Kaleidoscope]
 - https://github.com/gmh5225/PJDCc [PJDC]
 - https://github.com/arnetheduck/nlvm [Nim]
-- https://github.com/brymer-meneses/lev-lang [Python's syntax]
+- https://github.com/brymer-meneses/lev-lang [rust style]
 - https://github.com/gmh5225/synthex-lang/tree/master [rust style]
+- https://github.com/edg-l/edlang [rust style]
 - https://github.com/Ttimofeyka/Rave
 - https://github.com/sasalla23/ni
+- https://github.com/agentcooper/eye [Syntax inspired by TypeScript]
+- https://github.com/OsamaAhmad00/Dua [Antlr4]
+- https://github.com/lang-vulpi/vulpi [Algebraic effects]
+- https://github.com/andyyu2004/l-lang [Rust-inspired]
+- https://github.com/techie-mike/compiler-for-vm [IR for VM]
+- https://github.com/gmh5225/minir [IR written in Zig]
+- https://github.com/grachale/llvm_frontend [Inspired by Pasca]
+- https://github.com/red/red [Inspired by Rebol]
+- https://github.com/vvaltchev/mylang [Inspired by Python, JavaScript and C]
+- https://github.com/candy-lang/candy [robust, minimalistic, and expressive]
+- https://github.com/SamoZ256/lvslang [LVSL]
+- https://github.com/debugx-x/HighLevel-Compiler [Java-Based Compiler]
+- https://github.com/mathieudelehaye/JavaToLLVMIRCompiler [Java-Based Compiler]
+- https://github.com/ianw3214/velvet [With VSC extension]
+- https://github.com/rochus-keller/Micron [Micron]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
@@ -390,6 +429,7 @@
 - [Rewrite C++ code to automatically apply `constexpr` where possible](https://github.com/gmh5225/constexpr-everything)
 - [A clang tool for happy refactoring without source-code gymnastics ](https://github.com/goldsborough/clang-expand)
 - [Clang-based tool to dump type information (enums, records, vtables) from a C++ codebase and optionally import it into IDA](https://github.com/leoetlino/classgen)
+- https://github.com/KDE/clazy [Allows clang to understand Qt semantics]
 
 ## CIR
 - https://discourse.llvm.org/t/rfc-an-mlir-based-clang-ir-cir/63319
@@ -399,8 +439,11 @@
 ## MLIR
 - https://github.com/j2kun/mlir-tutorial [MLIR For Beginners]
 - https://github.com/gmh5225/mlir-cf-pass [out-of-tree pass]
+- https://github.com/llvm/torch-mlir [PyTorch MLIR]
 - https://github.com/openxla/iree [MLIR compiler]
 - https://github.com/openxla/xla [MLIR compiler]
+- https://github.com/Lewuathe/mlir-hello [MLIR Sample dialect]
+- https://github.com/llvm/Polygeist [C/C++ frontend for MLIR]
 
 ## Clangd
 - https://github.com/clangd/vscode-clangd
@@ -408,6 +451,17 @@
 ## LLD
 - https://github.com/llvm/llvm-project/commit/9dd2d50984f5b02e19d3576812dc9b09ddcc9483 [COFF]
 - https://github.com/llvm/llvm-project/commit/98bc304e9faded44f1d8988ffa4c5d8b50c759ec [COFF]
+
+## LLDB
+- https://github.com/endoli/lldb-sys.rs [LLDB bindings for Rust]
+- https://github.com/tetsuo-cpp/visual-lldb [A GUI frontend for LLDB]
+- https://github.com/ant4g0nist/vegvisir [A browser based GUI for LLDB Debugger]
+- https://github.com/zmeadows/lldbg [A lightweight native GUI for LLDB]
+- https://github.com/plasma-umass/ChatDBG [LLDB with chatGPT]
+- https://github.com/teemu-hakala/debugging-masterclass [Debugging with LLDB on VSCode GUI]
+- https://github.com/vadimcn/codelldb [A native debugger extension for VSCode based on LLDB]
+- https://github.com/facebookarchive/ds2 [Debug server for lldb]
+- https://github.com/yangyss/lldb-trace
 
 ## Transfer
 - https://github.com/sbip-sg/tsll
