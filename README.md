@@ -26,6 +26,7 @@
 
 ## OLLVM
 - https://github.com/obfuscator-llvm/obfuscator
+- https://github.com/Cobalt-Strike/obfuscator-llvm
 - https://github.com/isrc-cas/flounder
 - https://github.com/romangol/Armariries
 - https://github.com/amimo/goron
@@ -37,6 +38,7 @@
 - https://github.com/NeHyci/Hikari-LLVM15-Core
 - https://github.com/61bcdefg/Hikari-LLVM15-Headers
 - https://github.com/HakonHarnes/emcc-obf [Hikari]
+- https://github.com/WYK15/swift-Ollvm11 [apple llvm 11 (swift-llvm 5.4)]
 - https://github.com/DeNA/DeClang
 - https://github.com/0x3f97/ollvm-12.x
 - https://github.com/kk-laoguo/ollvm-13
@@ -73,6 +75,7 @@
 - https://github.com/trustdecision/td-ollvm
 - https://github.com/GANGE666/xVMP
 - https://github.com/KomiMoe/Arkari
+- https://github.com/thomasxm/Akira-obfuscator 
 - https://github.com/Yuerino/obfuscator-pass
 - https://github.com/Slattz/ObfusC
 - https://github.com/Colerar/labyrinth
@@ -80,6 +83,7 @@
 - https://github.com/Despire/llvm-obfuscator
 - https://github.com/DrShabulaji/Paper_Obfs
 - https://github.com/janoglezcampos/llvm-yx-callobfuscator
+- https://github.com/cainiao1992/ollvm-mingw [mingw-w64 toolchain]
 - https://github.com/Brythzz/cfg-flattening-pass [CFG Flattening for LLVM 17]
 - https://github.com/dwuid/chenxification [OLLVM 4]
 - https://github.com/joaovarelas/Obfuscator-LLVM-16.0 [OLLVM 16]
@@ -158,6 +162,7 @@
 - https://github.com/YutaroOrikasa/ljf-project [LLVM based JIT Framework]
 - https://github.com/JLLVM/JLLVM [JVM implementation using LLVM as a JIT]
 - https://github.com/Themaister/MIPS-LLVM-Jitter [MIPS to LLVM IR recompiler]
+- https://github.com/dstogov/ir [Lightweight JIT Compilation Framework]
 
 ## Rust Manipulation
 - https://github.com/jauhien/iron-kaleidoscope [LLVM tutorial in Rust language]
@@ -245,6 +250,7 @@
 ## Virtual Machine 
 - https://github.com/jakogut/tinyvm
 - https://github.com/gmh5225/tinyvm-msvc
+- https://github.com/EladB1/vmPrototype
 - https://github.com/marcosantos98/llvm-test
 - https://github.com/thesecretclub/riscy-business [RISC-V]
 - https://github.com/MaxXSoft/sigma-vm [Sigma]
@@ -417,6 +423,7 @@
 - https://github.com/mathieudelehaye/JavaToLLVMIRCompiler [Java-Based Compiler]
 - https://github.com/ianw3214/velvet [With VSC extension]
 - https://github.com/rochus-keller/Micron [Micron]
+- https://github.com/IITH-Compilers/P4LLVM [P4]
 
 ## Clang Plugins
 - https://chromium.googlesource.com/chromium/src/tools/clang/+/refs/heads/master/plugins/FindBadConstructsAction.h
